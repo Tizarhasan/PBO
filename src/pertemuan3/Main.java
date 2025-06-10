@@ -16,6 +16,7 @@ public class Main {
 		  System.out.println(m1.hadir);
 		  
 		  
+		  
 		  Lingkaran l1 = new Lingkaran(10);
 				  System.out.println("Luas lingkaran adalah : " +l1.hitungLuas());  
 		  
